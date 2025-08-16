@@ -5,9 +5,9 @@ Full Stack Developer, Educator, Maker.
 --------------------------------------
 
 * 🌍  I'm based in Ankara
-* 🖥️  See my portfolio at [linkedin.com/in/muratsuzgun/](http://murat.suzgun.net)
+* 🖥️  See my portfolio at [linkedin.com/in/muratsuzgun/](https://linkedin.com/in/muratsuzgun/)
 * ✉️  You can contact me at [murat@suzgun.net](mailto:murat@suzgun.net)
-* 🚀  I'm currently working on [.Net C#](http://https://e-okul.meb.gov.tr/)
+* 🚀  I'm currently working on [.Net C#](https://e-okul.meb.gov.tr/)
 * 🧠  I'm learning Dart, Flutter
 * 🤝  I'm open to collaborating on projects that will change the world
 * ⚡  I am dealing with robot design and development as a hobby.
@@ -44,5 +44,5 @@ Full Stack Developer, Educator, Maker.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/msuzgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/murat.suzgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muratsuzgun/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users//murat-süzgün" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SuzgunMurat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/muratsuzgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/msuzgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/murat.suzgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muratsuzgun/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/murat-suzgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SuzgunMurat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/muratsuzgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
